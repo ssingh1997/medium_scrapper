@@ -1,0 +1,7 @@
+How to Run:
+
+1) go into Terminal/command line
+2) cd n2_project
+3) scrapy crawl medium_info -o *name of file*.json
+4) enter keyword which you want to search articles for
+5) file should be made giving back metrics
